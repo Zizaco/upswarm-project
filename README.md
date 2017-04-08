@@ -1,4 +1,4 @@
-<p align="center"><img title="Upswarm" src="resources/logo.png"></p>
+<p align="center"><img title="Upswarm" src="https://github.com/Zizaco/upswarm/raw/master/resources/logo.png"></p>
 <p align="center">Multi-processed, async, fault-tolerant micro-framework</br> for writing distributed service-oriented PHP applications.</p>
 
 [![Build Status](https://travis-ci.org/Zizaco/upswarm.svg?branch=master)](https://travis-ci.org/Zizaco/upswarm)
