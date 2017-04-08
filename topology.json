@@ -1,0 +1,11 @@
+{
+    "settings": {
+        "port": 8300,
+        "hosts": ["192.168.0.23","192.168.0.25"]
+    },
+    "services": {
+        "App\\WebServer\\WebServerService": 1,
+        "App\\HelloWorld\\Controller": 2,
+        "App\\HelloWorld\\GreetingService": 3
+    }
+}
