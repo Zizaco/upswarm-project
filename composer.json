@@ -10,6 +10,7 @@
     "require": {
         "php": ">=7.0",
         "zizaco/upswarm": "dev-master",
+        "react/http": "dev-master#16cd72ffc4037a5e58c8ad51022809c0953adc25",
         "react/zmq": "^0.3.0",
         "clue/block-react": "^1.1"
     },

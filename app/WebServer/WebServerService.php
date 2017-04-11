@@ -29,8 +29,8 @@ class WebServerService extends Service
             require __DIR__.'/routes.php';
         });
 
-        $server->listen(8080);
-        echo "Listening on port 8080\n";
+        echo "Listening on port 8081\n";
+        $server->listen(8081);
     }
 
     /**
